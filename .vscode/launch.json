@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsvcRoutesApplication<msvc-routes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.charlie.springcloud.msvc_routes.MsvcRoutesApplication",
+            "projectName": "msvc-routes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
