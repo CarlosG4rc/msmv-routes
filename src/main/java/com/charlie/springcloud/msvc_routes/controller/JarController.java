@@ -35,6 +35,6 @@ public class JarController {
     }
 	@GetMapping("/saludo")
 	public String holi() {
-		return "Holi, bienvenido al mundo del java cpn Spring Boot";
+		return "Holi, bienvenido al mundo del java con Spring Boot";
 	}
 }
